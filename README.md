@@ -1,2 +1,2 @@
 # MentorCruise
- Test projects based on real tasks
+ Test tasks based on real projects (collaboration in progress) :)
